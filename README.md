@@ -12,3 +12,4 @@ Tak 8:Adds all permissions to others and no permission for owner and group
 Task 9:Sets permission as follows -rwxr-x-wx to hello file
 Task 10:Sets permission of hello as olleh
 Task 12:Craetea my_dir with permission 751
+Task 14:Changes file owner and group
