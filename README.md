@@ -15,3 +15,4 @@ Task 12:Craetea my_dir with permission 751
 Task 14:Changes file owner and group
 Task 16:Changes owner if and only if
 Task 17:Plays starwars in shell
+Task 0:Script prints absolute path of a file
