@@ -9,3 +9,4 @@ Task 5:Adds execute permission to owner of file
 Task 6: Adds multiple permission to a file
 Task 7:Adds execute permission to all groups
 Tak 8:Adds all permissions to others and no permission for owner and group
+Task 9:Sets permission as follows -rwxr-x-wx to hello file
