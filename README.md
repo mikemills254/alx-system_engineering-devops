@@ -7,3 +7,4 @@ Task 3:Changes new owner
 Task 4:Creates an file
 Task 5:Adds execute permission to owner of file
 Task 6: Adds multiple permission to a file
+Task 7:Adds execute permission to all groups
