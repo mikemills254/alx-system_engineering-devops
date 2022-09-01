@@ -3,3 +3,4 @@ Task 11: Add execute permission to all subdirectories of working directory
 Change group name for dir
 Task 1: Prints effective username of current user
 Task 2:prints all groups a user is part of
+Task 3:Changes new owner
