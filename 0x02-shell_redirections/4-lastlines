@@ -1,0 +1,2 @@
+#!/bin/bash
+fail -10 /etc/passwd
